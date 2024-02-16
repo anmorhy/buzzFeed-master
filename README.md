@@ -7,7 +7,6 @@
 <p align="center">
   <a href="">🔗 Acesse o Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Ferramentas">⚙️ Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Informações-do-conteúdo">💬 Informações do conteúdo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Instrutor">🎓 Instrutor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-License">📝 License</a>
@@ -19,11 +18,6 @@
 - CSS
 - JavaScript
 - TypeScript
-
-## ⚙️ Ferramentas
-
-- Dribbble: Site com inspiração de ideias para o projeto
-- Just Color Picker
 
 ## 💬 Informações do conteúdo
 Através do Bootcamp - Desenvolvimento Frontend com Angular
